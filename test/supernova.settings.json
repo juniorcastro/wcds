@@ -4,6 +4,16 @@
             "tokenSets": ["core"],
             "supernovaBrand": "Default",
             "supernovaTheme": null
+        },
+        {
+            "tokenSets": ["light"],
+            "supernovaBrand": "Default",
+            "supernovaTheme": null
+        },
+        {
+            "tokenSets": ["button"],
+            "supernovaBrand": "Default",
+            "supernovaTheme": null
         }
     ],
     "settings": {
