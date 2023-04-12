@@ -1,17 +1,11 @@
 {
     "mode": "single-file",
     "mapping": [{
-            "tokenSets": ["core"],
-            "supernovaBrand": "Default",
-            "supernovaTheme": null
-        },
-        {
-            "tokenSets": ["light"],
-            "supernovaBrand": "Default",
-            "supernovaTheme": null
-        },
-        {
-            "tokenSets": ["button"],
+            "tokenSets": [
+                "core",
+                "light",
+                "button"
+            ],
             "supernovaBrand": "Default",
             "supernovaTheme": null
         }
