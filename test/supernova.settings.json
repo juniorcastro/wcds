@@ -1,7 +1,7 @@
 {
     "mode": "single-file",
     "mapping": [{
-            "tokenSets": ["core","light"],
+            "tokenSets": ["core","light","button"],
             "supernovaBrand": "Default",
             "supernovaTheme": null
         }
